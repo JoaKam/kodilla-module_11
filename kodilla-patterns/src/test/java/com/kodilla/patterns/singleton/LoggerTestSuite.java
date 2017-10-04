@@ -16,12 +16,14 @@ public class LoggerTestSuite {
     }
 
     @Test
-    public void testLog() {
+    public void testLogMethod() {
         //Given
         //When
         Logger.getInstance().log("last log");
+        String lastLog = Logger.getInstance().getLastLog();
 
         //Then
+        Assert.assertEquals(lastLog, "last log");
     }
 
 }

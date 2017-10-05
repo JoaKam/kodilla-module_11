@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c44688ae-cdb6-4863-91ce-d7dd59063685" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kodilla-patterns/out/test/classes/com/kodilla/patterns/singleton/LoggerTestSuite.class" afterPath="$PROJECT_DIR$/kodilla-patterns/out/test/classes/com/kodilla/patterns/singleton/LoggerTestSuite.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Library.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Library.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Library.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="493">
+              <caret line="37" column="53" lean-forward="true" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LibraryTestSuite.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LibraryTestSuite.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -656,7 +654,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="800" />
     <option name="width" value="800" />
     <option name="height" value="860" />
@@ -1000,7 +998,7 @@
       <workItem from="1507051411100" duration="4666000" />
       <workItem from="1507146680751" duration="4448000" />
       <workItem from="1507232500213" duration="1328000" />
-      <workItem from="1507238345977" duration="247000" />
+      <workItem from="1507238345977" duration="1353000" />
     </task>
     <task id="LOCAL-00001" summary="Exercise 11.1">
       <created>1507056936244</created>
@@ -1023,13 +1021,17 @@
       <option name="project" value="LOCAL" />
       <updated>1507147510224</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercise 11.2 - shallow">
+      <created>1507238639302</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1507238639302</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LibraryTestSuite_testGetBooks - 2017.10.05 at 21h 57m 26s.xml">
-      <configuration name="LibraryTestSuite.testGetBooks" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LibraryTestSuite_testGetBooks - 2017.10.05 at 22h 02m 20s.xml">
       <configuration name="LibraryTestSuite.testGetBooks" configurationId="JUnit" />
     </history-entry>
@@ -1037,6 +1039,9 @@
       <configuration name="LibraryTestSuite.testGetBooks" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LibraryTestSuite_testGetBooks - 2017.10.05 at 23h 22m 30s.xml">
+      <configuration name="LibraryTestSuite.testGetBooks" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LibraryTestSuite_testGetBooks - 2017.10.05 at 23h 41m 47s.xml">
       <configuration name="LibraryTestSuite.testGetBooks" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LoggerTestSuite_testLog - 2017.10.03 at 20h 48m 24s.xml">
@@ -1059,10 +1064,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13380000" />
+    <option name="totallyTimeSpent" value="14486000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="0" width="800" height="860" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1078,7 +1083,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33655173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17837837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08483291" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1134,7 +1139,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise 11.1" />
     <MESSAGE value="Exercise 11.1 - update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 11.1 - update" />
+    <MESSAGE value="Exercise 11.2 - shallow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 11.2 - shallow" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1258,11 +1264,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/LibraryUtility.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="152">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1274,27 +1279,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java">
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Library.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="493">
+          <caret line="37" column="53" lean-forward="true" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Library.java">
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="102">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -28,7 +28,6 @@ public class LibraryTestSuite {
         Library clonedLibrary = null;
         try {
             clonedLibrary = newLibrary.shallowCopy();
-
             clonedLibrary.setName("Cloned Library");
         } catch (CloneNotSupportedException e) {
             System.out.println(e);
@@ -44,8 +43,8 @@ public class LibraryTestSuite {
 
         //Then
         Assert.assertTrue(newLibrary.getBooks().contains(got1));
-        Assert.assertTrue(newLibrary.getName()=="My Library");
-        Assert.assertTrue(clonedLibrary.getName()=="Cloned Library");
+        Assert.assertTrue(newLibrary.getName() == "My Library");
+        Assert.assertTrue(clonedLibrary.getName() == "Cloned Library");
         Assert.assertTrue(newLibrary.getBooks().size() == 3);
         Assert.assertTrue(clonedLibrary.getBooks().size() == 3);
         Assert.assertTrue(deepClonedLibrary.getBooks().size() == 4);

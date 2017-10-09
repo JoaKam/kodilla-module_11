@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c44688ae-cdb6-4863-91ce-d7dd59063685" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/ShoppingTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/Task.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/app.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kodilla-patterns/out/test/classes/com/kodilla/patterns/singleton/LoggerTestSuite.class" afterPath="$PROJECT_DIR$/kodilla-patterns/out/test/classes/com/kodilla/patterns/singleton/LoggerTestSuite.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Library.java" afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Library.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java" afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -36,46 +39,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Library.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Library.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="37" column="53" lean-forward="false" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Prototype.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Prototype.java">
+      <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/Task.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LibraryTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java">
+      <file leaf-file-name="ShoppingTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/ShoppingTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="29" column="53" lean-forward="false" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+            <state relative-caret-position="48">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/app.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,6 +89,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -635,12 +640,25 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/Logger.java" />
-        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java" />
         <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/LibraryUtility.java" />
         <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Prototype.java" />
-        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Library.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/SocialPublisher.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/User.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/Millenials.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/YGeneration.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/ZGeneration.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/strategy/social/UserTestSuit.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/TwitterPublisher.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/FacebookPublisher.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/SnapchatPublisher.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/Task.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/ShoppingTask.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/app.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -657,11 +675,13 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="800" />
-    <option name="width" value="800" />
+    <option name="x" value="768" />
+    <option name="width" value="832" />
     <option name="height" value="860" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -678,9 +698,9 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -731,7 +751,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodilla-module_11" type="b2602c69:ProjectViewProjectNode" />
@@ -756,16 +776,6 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-module_11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodilla-module_11" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kodilla-patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="library" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -789,8 +799,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LibraryTestSuite.testGetBooks">
-    <configuration name="LibraryTestSuite.testGetBooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.UserTestSuit">
+    <configuration name="LibraryTestSuite.testGetBooksShallow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.kodilla.patterns.prototype.library.*" />
@@ -802,57 +812,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.kodilla.patterns.prototype.library" />
       <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.prototype.library.LibraryTestSuite" />
-      <option name="METHOD_NAME" value="testGetBooks" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/kodilla-patterns" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="LoggerTestSuite.testGetLastLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.patterns.singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="kodilla-patterns_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.kodilla.patterns.singleton" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.singleton.LoggerTestSuite" />
-      <option name="METHOD_NAME" value="testGetLastLog" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/kodilla-patterns" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="LoggerTestSuite.testLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.patterns.singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="kodilla-patterns_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.kodilla.patterns.singleton" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.singleton.LoggerTestSuite" />
-      <option name="METHOD_NAME" value="testLog" />
+      <option name="METHOD_NAME" value="testGetBooksShallow" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -878,6 +838,81 @@
       <option name="PACKAGE_NAME" value="com.kodilla.patterns.singleton" />
       <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.singleton.LoggerTestSuite" />
       <option name="METHOD_NAME" value="testLogMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/kodilla-patterns" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="UserTestSuit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.patterns.strategy.social.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="kodilla-patterns_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kodilla.patterns.strategy.social" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.strategy.social.UserTestSuit" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/kodilla-patterns" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="UserTestSuit.testDefaultSharingStrategies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.patterns.strategy.social.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="kodilla-patterns_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kodilla.patterns.strategy.social" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.strategy.social.UserTestSuit" />
+      <option name="METHOD_NAME" value="testDefaultSharingStrategies" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/kodilla-patterns" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="UserTestSuit.testIndividualSharingStrategy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.patterns.strategy.social.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="kodilla-patterns_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kodilla.patterns.strategy.social" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.strategy.social.UserTestSuit" />
+      <option name="METHOD_NAME" value="testIndividualSharingStrategy" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -971,18 +1006,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.LoggerTestSuite.testLog" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.LoggerTestSuite.testGetLastLog" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.LoggerTestSuite.testLogMethod" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.LibraryTestSuite.testGetBooks" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LoggerTestSuite.testLogMethod" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.LibraryTestSuite.testGetBooksShallow" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.UserTestSuit.testDefaultSharingStrategies" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.UserTestSuit.testIndividualSharingStrategy" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.UserTestSuit" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.LibraryTestSuite.testGetBooks" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.LoggerTestSuite.testLogMethod" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.LoggerTestSuite.testLog" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.LoggerTestSuite.testGetLastLog" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.UserTestSuit" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.UserTestSuit.testIndividualSharingStrategy" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.UserTestSuit.testDefaultSharingStrategies" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LibraryTestSuite.testGetBooksShallow" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.LoggerTestSuite.testLogMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -1001,7 +1038,8 @@
       <workItem from="1507146680751" duration="4448000" />
       <workItem from="1507232500213" duration="1328000" />
       <workItem from="1507238345977" duration="1465000" />
-      <workItem from="1507454985957" duration="257000" />
+      <workItem from="1507454985957" duration="5326000" />
+      <workItem from="1507570203126" duration="5036000" />
     </task>
     <task id="LOCAL-00001" summary="Exercise 11.1">
       <created>1507056936244</created>
@@ -1045,27 +1083,40 @@
       <option name="project" value="LOCAL" />
       <updated>1507455075985</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exercise 11.2 - update 2">
+      <created>1507455267516</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1507455267516</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Exercise 11.1 - corr2">
+      <created>1507571075178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1507571075178</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Exercise 11.2 - corr">
+      <created>1507571716096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1507571716096</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Exercise 11.3">
+      <created>1507573122889</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1507573122889</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LibraryTestSuite_testGetBooks - 2017.10.05 at 22h 02m 20s.xml">
-      <configuration name="LibraryTestSuite.testGetBooks" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTestSuite_testGetBooks - 2017.10.05 at 23h 20m 47s.xml">
-      <configuration name="LibraryTestSuite.testGetBooks" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTestSuite_testGetBooks - 2017.10.05 at 23h 22m 30s.xml">
-      <configuration name="LibraryTestSuite.testGetBooks" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTestSuite_testGetBooks - 2017.10.05 at 23h 41m 47s.xml">
-      <configuration name="LibraryTestSuite.testGetBooks" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoggerTestSuite_testLog - 2017.10.03 at 20h 48m 24s.xml">
-      <configuration name="LoggerTestSuite.testLog" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoggerTestSuite_testLog - 2017.10.03 at 20h 48m 33s.xml">
-      <configuration name="LoggerTestSuite.testLog" configurationId="JUnit" />
+    <history-entry file="LibraryTestSuite_testGetBooksShallow - 2017.10.09 at 19h 53m 32s.xml">
+      <configuration name="LibraryTestSuite.testGetBooksShallow" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LoggerTestSuite_testLog - 2017.10.03 at 20h 52m 41s.xml">
       <configuration name="LoggerTestSuite.testLog" configurationId="JUnit" />
@@ -1079,9 +1130,24 @@
     <history-entry file="LoggerTestSuite_testLogMethod - 2017.10.04 at 22h 04m 36s.xml">
       <configuration name="LoggerTestSuite.testLogMethod" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LoggerTestSuite_testLogMethod - 2017.10.09 at 19h 43m 51s.xml">
+      <configuration name="LoggerTestSuite.testLogMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTestSuit - 2017.10.09 at 20h 18m 14s.xml">
+      <configuration name="UserTestSuit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTestSuit_testDefaultSharingStrategies - 2017.10.09 at 20h 14m 57s.xml">
+      <configuration name="UserTestSuit.testDefaultSharingStrategies" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTestSuit_testIndividualSharingStrategy - 2017.10.09 at 20h 17m 43s.xml">
+      <configuration name="UserTestSuit.testIndividualSharingStrategy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserTestSuit_testIndividualSharingStrategy - 2017.10.09 at 20h 17m 45s.xml">
+      <configuration name="UserTestSuit.testIndividualSharingStrategy" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14855000" />
+    <option name="totallyTimeSpent" value="24960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -1089,30 +1155,30 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32253712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31983805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.01754386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33655173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08547558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48457584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994602" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994602" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1159,7 +1225,11 @@
     <MESSAGE value="Exercise 11.2 - shallow" />
     <MESSAGE value="Exercise 11.2 - shallow + deep" />
     <MESSAGE value="Exercise 11.2 - update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 11.2 - update" />
+    <MESSAGE value="Exercise 11.2 - update 2" />
+    <MESSAGE value="Exercise 11.1 - corr2" />
+    <MESSAGE value="Exercise 11.2 - corr" />
+    <MESSAGE value="Exercise 11.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 11.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1168,11 +1238,86 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/Millenials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/YGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/SocialPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/ZGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/FacebookPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/TwitterPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/SnapchatPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1181,7 +1326,7 @@
         <state relative-caret-position="629">
           <caret line="37" column="53" lean-forward="true" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1190,7 +1335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1199,7 +1343,7 @@
         <state relative-caret-position="187">
           <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1208,7 +1352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1217,7 +1360,7 @@
         <state relative-caret-position="425">
           <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1226,7 +1369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1235,7 +1377,7 @@
         <state relative-caret-position="646">
           <caret line="38" column="64" lean-forward="false" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1244,7 +1386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1252,7 +1393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1261,7 +1401,7 @@
         <state relative-caret-position="119">
           <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1271,7 +1411,7 @@
         <state relative-caret-position="204">
           <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1311,13 +1451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/LibraryUtility.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1326,21 +1459,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java">
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="29" column="53" lean-forward="false" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Prototype.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1349,15 +1471,154 @@
         <state relative-caret-position="493">
           <caret line="37" column="53" lean-forward="false" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
           <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Prototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/SocialPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/LoggerTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="43" lean-forward="false" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/YGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/Millenials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/TwitterPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/FacebookPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/SnapchatPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/strategy/social/UserTestSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java">
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/ZGeneration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/ShoppingTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/tasks/app.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>

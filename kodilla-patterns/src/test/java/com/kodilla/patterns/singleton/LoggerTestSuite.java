@@ -19,11 +19,12 @@ public class LoggerTestSuite {
     public void testLogMethod() {
         //Given
         //When
-        Logger.getInstance().log("last log");
+        Logger.getInstance().log("test1");
+        Logger.getInstance().log("test2");
         String lastLog = Logger.getInstance().getLastLog();
 
         //Then
-        Assert.assertEquals(lastLog, "last log");
+        Assert.assertEquals(lastLog, "test2");
     }
 
 }
